@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+// define application directory
+define('APP_PATH', __DIR__ . '/application/');
+
+// upload framework guide
+require __DIR__.'/thinkphp/console.php';

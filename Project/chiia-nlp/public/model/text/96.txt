@@ -1,0 +1,140 @@
+Companies and Markets
+Apple turning green on aluminium
+Matthew Stevens
+1,451 words
+11 May 2018
+The Australian Financial Review
+AFNR
+First
+32
+English
+Copyright 2018. Fairfax Media Management Pty Limited.
+When Apple Inc invites you in for a chat I suppose the smart thing is always to take your tie off, get relaxed
+and get along in there.
+
+That is just what happened when the owner of the world's most valuable brand invited the two oldest
+competitors in aluminium to throw around some ideas about new technology and the different streams of
+work that both were doing on reducing the industry's carbon footprint.
+
+And the result of Apple's "facilitation" is that Rio Tinto subsidiary Alcan and America's recently bifurcated
+aluminium legend, Alcoa, have formed a joint venture to develop and disseminate a new aluminium smelting
+technology that produces no greenhouse gas.
+
+The joint venture, to be called Elysis, will begin life with $C188 million ($196 million) of new equity, the
+biggest individual chunks of which will be provided by the governments of Canada and Quebec, the province
+most likely to host the first full-scale carbon-free smelter.
+
+Each arm of the Canadian government will pump $C60 million and for its direct support Quebec has earned a
+3.5 per cent equity stake in the new venture. Rio and Alcoa will equally own the balance of the business and,
+having injected technology, patents and facilities in the business, they will collectively invest a further $55
+million on progress to commercialisation of their new green technology. Apple, too, is putting its money where
+its facilitation has been, "investing" $13 million and offering to provide further technical support to Elysis.
+
+As it turns out, Elysis is the expanded iteration of an agreement forged last year to consolidate work being
+done at Alcoa's technology base in Pittsburgh and in the Rio subsidiary's French research centre.
+
+Rio's team has been working on something called "inert anode technology" and its efforts will now be
+relocated to Elysis' home base in Canada.
+
+But it appears that the breakthrough technology that has fathered this experiment in collaboration was
+developed by Alcoa. The carbon-free process has been a work in progress at Alcoa's Pittsburgh centre since
+2009 and it is being used to produce small qualities of metal there. The plan is to finish that work in the
+joint-venture structure and the ambition is to end up with a technology that can be used in new smelters and
+be retrofitted to old ones.
+
+Alcoa will inject the technology and its patents into Elysis and, to calm the rising nationalism in the US, the
+plan is that the joint venture will invest up to $C40 million in the US. The plan includes, for example, the
+sourcing of proprietary anode and cathode from Alcoa's homeland.
+
+Now, it isn't often that we raw materials guys get to offer a quote from the likes of Apple chief executive Tim
+Cook, so we are certainly not going to miss the chance this potential industry game changer has offered.
+
+"Apple is committed to advancing technologies that are good for the planet and help protect it for generations
+to come," Cook said in the Rio statement that announced the birth of Elysis. "We are proud to be part of this
+ambitious new project, and look forward to one day being able to use aluminium produced without direct
+greenhouse gas emissions in the manufacturing of our products."
+
+Page1of3©2018Factiva,Inc.Allrightsreserved.Needless to say, Cook must here be talking only about so-called Scope 1 emissions, which account for any
+and all greenhouse gases that are emitted in the actual manufacturing process.
+
+Aluminium is often called solid electricity. That is because it is a metal wrought from alumina which in turn is
+refined from bauxite. Both the refining and smelter process require very substantial levels of electricity as the
+trigger for the necessary chemical reactions. And the greenhouse emissions made in generating the power
+that is acquired by alumina and aluminium producers is described as Scope 2 emissions.
+
+So unless your power source is entirely renewable and green, then your aluminium will never be entirely free
+of contribution to the climate change issue. And even then, there is the issue of where you source alumina
+and bauxite and how emissions-light their production might or might not be.
+
+But emissions-zero metal is something that Rio people have been banging on about for the past two years or
+so as the company finally started moved beyond the rehabilitation of its bungled $US38 billion investment of
+Alcan and began moving to capture the potential premium that arrives with running what is already the
+"cleanest" community of smelters in the world.
+
+Rio bought Alcan for three reasons. At a tactical level it was a poison pill that aimed to deflect takeover
+ambitions already privately flagged by BHP.
+
+But at a strategic level it reflected a long-term confidence in aluminium as a second-phase beneficiary of the
+middle-classing of China. And Alcan's world-class Canadian smelters were pretty much universally
+hydro-powered.
+
+Only a month ago Rio became the first producer to earn certification under the Aluminium Stewardship
+Initiative. The idea there is to allow customers and their end users to be able to demonstrate a commitment to
+a sustainable supply chain. And this level of certification will increasingly matter to companies like, well, Apple
+as they market ever-more-sophisticated digital toys to an ever-more-aware and discerning cohort of
+customers.
+
+To give you some idea of the difference hydro-power makes to emissions outcomes, the average industry
+Scope 1 and 2 emissions run at about 11.5 tonnes of carbon dioxide for every tonne of aluminium produced.
+But Rio's Canadian smelter suite generates less that 4 tonnes of CO2 for every tonne of metal output.
+
+Given that everything goes as marketed by the new joint venture, there is every chance Rio really will be in a
+position to offer the market a zero-carbon product at some point after 2024.
+
+It is a prospect that had both a Canadian Prime Minister and a Rio chief executive talking big overnight.
+
+"This is a revolutionary smelting process that can deliver a significant reduction in carbon emissions," Rio
+boss Jean-Sebastien Jacques said in the Rio statement. "It builds on the key role aluminium has to play in
+driving human progress, by making products infinitely recyclable, stronger, lighter and more fuel efficient."
+
+The excitement level was just as high for Prime Minister Justin Trudeau.
+
+"Today's announcement will create and maintain thousands of jobs for Canadians, significantly reduce
+Canada's carbon footprint, and further strengthen the aluminium industry in North America. It is a truly historic
+day for the aluminum industry - and for all Canadian aluminum workers - who play such an important role in
+our economy and our country's future."
+
+And I will tell you this for nothing, it is pretty exciting to see a political leader somewhere getting hyperbolic
+about the positives that the mining and metals business generate.
+
+Stormy port
+
+Melbourne's major container terminal operators are actively working through the legal options available to
+force some level of accountability for the worrying retro walkout by its workers yesterday.
+
+In the almost-immediate wake of the merger of the Maritime Union of Australia with its bigger and more-
+militant brother, the CFMEU, Melbourne dockers were called off the job to add numbers to a rally in support
+of construction union leader John Setka.
+
+He and a colleague were (and are) active defending blackmail charges in Melbourne's Magistrates Court.
+
+The recently returned fathers of waterfront reform at Patrick were quick to alert their workforce to the risk they
+took in downing tools and it is understood that competitor DP World might either seek orders from the Fair
+Work Commission or pursue compensation claims in the Federal Court. Patrick is also pondering whether to
+seek damages from individual union officials.
+
+Page2of3©2018Factiva,Inc.Allrightsreserved.Patrick told each worker that didn't that the illegal stoppage was "an unacceptable contravention of your
+duties as an employee" and it warned that the letter "serves as a formal written warning".
+
+"For the avoidance of doubt any further failure by you to act in accordance with your duties as an employee
+will not be tolerated and may result in further disciplinary action being taken against you," the letter continued.
+
+Workers were then invited to contact management if there "are any other matters which will affect your ability
+to act in accordance with lawful and reasonable directions five to you ..."
+
+In other words, management has asked workers to seek management support if they feel that they are being
+bullied into pulling the same pointless, costly, illegal and job-threatening stunt at any point in the future.
+
+Document AFNR000020180510ee5b0001e
+
+Page3of3©2018Factiva,Inc.Allrightsreserved.

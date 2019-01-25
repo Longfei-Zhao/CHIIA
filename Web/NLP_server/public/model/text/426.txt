@@ -1,0 +1,144 @@
+Left in the dark – Seeking to appoint a voluntary administrator when board relations crumble
+Cameron Cheetham
+1,188 words
+11 April 2018
+Mondaq Business Briefing
+BBPUB
+English
+(c) 2018 Mondaq Ltd
+This week's TGIF considers the case of In the matter of Bean and Sprout Pty Ltd [2018] NSWSC 351, an
+application seeking a declaration as to the validity of the appointment of a voluntary administrator.
+
+WHAT HAPPENED?
+
+ChinCompanyOn 7 December 2018, Mr Kong Yao Chin () was purportedly appointed as the voluntary
+administrator of Bean and Sprout Pty Ltd () by a resolution of the Company.
+
+Corporations ActChin subsequently sought an order pursuant to s 447C(2) of the Corporations Act 2001 (Cth)
+() that the Supreme Court of New South Wales declare whether his appointment as administrator of the
+Company was valid.
+
+A complicating factor in this case concerned the identity of the directors of the Company. Three parties
+claimed to be directors of the Company:
+
+JoyceThe Second Defendant, Ms Jiayi Hui (referred to in the decision by her Anglicised name, ) who was the
+procurement manager of the Company;
+
+CharlesGAThe Third Defendant, Mr Jianshu Li Hui (referred to in the decision by his Anglicised name, ) who
+was the "supervisor" of the sole shareholder of the Company, Guangzhou Aomai Information & Technology
+Ltd ();
+
+AllanThe Fourth Defendant, Mr Weiguang Huang Hui (referred to in the decision by his Anglicised name, )
+who was a director and minority shareholder of GA.
+
+Allan was the one who purported to appoint Chin as administrator.
+
+VALIDITY OF CORPORATE ACTS
+
+PRCThe validity of the resolution appointing Mr Chin was contingent on a number of acts of the corporate
+shareholders of the Company and GA. This was complicated by the fact that GA was a corporation governed
+by the law of the People's Republic of China (). Disputes had arisen in 2017 between many of these parties.
+
+There were initially four directors of GA. The chair of GA was a person, Therese.
+
+On 7 December 2017, GA resolved to remove Therese as the chair of GA and replace her with someone
+else.
+
+On 28 December 2017, Therese purported to convene a meeting of GA with Allan (one of the directors of GA)
+to remove all of the directors of the Company other than Allan. Black J held that this resolution was invalid as
+Therese had no authority to convene the meeting under PRC Law.
+
+By a resolution on 7 January 2018, Allan, believing himself to be the sole director of the Company, purported
+to appoint Chin as the voluntary administrator of the Company pursuant to s 436A. Allan claimed that the
+reason for this appointment was that he believed the Company was insolvent or likely to become insolvent. In
+March 2016, GA had 'advanced' $1.1 million to the Company and then provided a further $600,000 as an
+'equity contribution'. Allan claimed that the Company owed a debt of $1.5 million that it could not repay to GA
+due to insufficient assets.
+
+Page1of3©2018Factiva,Inc.Allrightsreserved.An earlier resolution had in fact been passed on 5 January 2018 by the other directors of GA removing Allan
+as a director of the Company.
+
+Black J ultimately did not have to decide whether Allan had been removed as a director when the resolution
+appointing Chin as administrator was passed. The facts demonstrated that Allan was not the sole director of
+the Company at the time and therefore Allan himself could not pass a resolution under s 436A to appoint
+Chin.
+
+WHETHER THE APPOINTMENT WAS VALID UNDER SECTION 436A AND FOR A PROPER PURPOSE
+
+Black J then went on to consider whether the appointment could have been valid had Allan had the requisite
+authority.
+
+Section 436A requires that all directors resolve that, in their opinion, the company is insolvent or likely to
+become insolvent in the near future. The resolution will not be valid if the director is not of that opinion or does
+not hold the opinion in good faith: Kazar Duus (1998) 88 FCR 218. A director must take adequate steps to
+satisfy themselves of the insolvency: Re Lime Gourmet Pizza Bar (Charlestown) Pty Ltd (formerly under
+administration) [2015] NSWSC 244.
+
+One of the issues in this case was that Allan was unable to inspect the Company's financial documents.
+Joyce and Charles had locked Allan out from the Company's computer systems, meaning Allan could not
+access financial records relevant to the question of the Company's solvency. Allan's primary basis for his
+opinion of insolvency was the money advanced by GA, but there was no evidence that this would be called in
+or that it would lead to the likely insolvency of the Company. There was also no evidence that the Company's
+other liabilities, including lease payments or taxation obligations, were not being or able to be met. Black J
+concluded that as Allan did not have the relevant information as to the Company's solvency, he could not
+have formed a reasonable opinion that the Company was insolvent or likely to become so.
+
+Black J held that Allan's appointment of Chin as administrator was an attempt to bring the Company under
+independent control due to his concerns as to the conduct of the Company's affairs. It was not to address
+issues of the Company's solvency. This was an improper use of the power under s 436A. Black J stated that
+the court would not exercise its discretion to cure the defects in the appointment where the Company was
+apparently solvent and the appointment had been made for an improper purpose.
+
+LESSONS FROM THIS CASE
+
+This case highlights the important procedural steps that must be followed in appointing voluntary
+administrators under s 436A. The complicated dynamics between the shareholders and directors of the
+corporations involved in this matter ultimately ended in a breakdown of the relationship. However, the
+breakdown of a relationship is not, of itself, a basis for the appointment of a voluntary administrator. The
+board of directors must be satisfied that the company is insolvent or will become insolvent in the future, and
+that an administrator should be appointed.
+
+It is not uncommon that relations will sour between directors of a company. This case raises questions as to
+how directors who have no access to financial data due to such a breakdown can effect an appointment of a
+voluntary administrator. In those situations, it would appear that a more appropriate approach would be to
+consider whether there is some lawful basis to secure access to records or otherwise to make a claim for
+oppression (where a minority shareholder) or apply for the winding up of the company.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice
+should be sought about your specific circumstances.
+
+Chambers Asia Pacific Awards 2016 Winner
+
+- Australia
+Client Service Award Employer of Choice for Gender Equality
+(WGEA)
+
+Mr Cameron Cheetham
+
+Corrs Chambers Westgarth
+
+Level 17,8 Chifley
+
+8-12 Chifley Square
+
+Page2of3©2018Factiva,Inc.Allrightsreserved.Sydney
+
+NSW 2000
+
+AUSTRALIA
+
+Tel: 29210 6500
+
+Fax: 29210 6611
+
+E-mail: jeremy.bojman@corrs.com.au
+
+URL: www.corrs.com.au/thinking
+
+Click Here for related articles
+
+(c) Mondaq Ltd, 2018 - Tel. +44 (0)20 8544 8300 - http://www.mondaq.com
+
+Document BBPUB00020180411ee4b000p1
+
+Page3of3©2018Factiva,Inc.Allrightsreserved.

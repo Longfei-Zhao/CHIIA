@@ -1,0 +1,12 @@
+beautifulsoup4==4.5.3
+cookies==2.2.1
+crypto==1.4.1
+cryptography==1.7.1
+lxml==3.7.1
+pymongo==3.2.2
+pyOpenSSL==16.2.0
+python-dateutil==2.6.0
+selenium==3.6.0
+Unidecode==0.4.20
+urllib3==1.22
+virtualenv==15.2.0
